@@ -4,7 +4,7 @@
 
 :file_folder: Graduate student 2023! :)
 
-:cyclone: Currently studying unity and unreal. Also foucsing on deep learning.
+:cyclone: Currently studying unity and unreal engine. Also foucsing on deep learning.
 
 :pencil2: Ill update my learning pattern and anything else to the github.
 
