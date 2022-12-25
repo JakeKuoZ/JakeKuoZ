@@ -6,7 +6,7 @@
 
 :cyclone: Currently studying unity and unreal. Also foucsing on deep learning.
 
-:pencil2:💻 Ill update my learning pattern and anything else to the github.
+:pencil2: Ill update my learning pattern and anything else to the github.
 
 📝 Interested in any subject about computer science.
 
