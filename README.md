@@ -2,7 +2,7 @@
 
 :books: I’m currently a freelancer.:/
 
-:file_folder: I'm computer science student graduate 2023!
+:file_folder: Graduate student 2023! :)
 
 :cyclone: Currently studying unity and unreal. Also foucsing on deep learning.
 
