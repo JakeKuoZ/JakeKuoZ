@@ -1,8 +1,8 @@
 # Hi there! I'm Jake Zhang.
 
-🔭 I’m currently a freelancer.:/
+:books: I’m currently a freelancer.:/
 
-🌱 I'm computer science student graduate 2023!
+:file_folder: I'm computer science student graduate 2023!
 
 👯 Currently studying unity and unreal. Also foucsing on deep learning.
 
