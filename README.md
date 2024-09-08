@@ -8,4 +8,4 @@
 
 💬 Not a github fan but decided comeback to it after a quite long time.
 
-:e-mail: How to reach me bill.zhangk@gmail.com (yes I been changed my name )
+:e-mail: How to reach me jake.zhangk@gmail.com (yes I been changed my name )
